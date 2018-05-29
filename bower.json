@@ -1,0 +1,25 @@
+{
+  "name": "ionic-search-model",
+  "authors": [
+    "sandeep dillerao <sandydillerao@gmail.com>"
+  ],
+  "description": "\"Search from list of item localy or remotely\"",
+  "main": "\"src/ionic-search-model.js\"",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "search",
+    "ionic",
+    "search",
+    "search-model"
+  ],
+  "license": "MIT",
+  "homepage": "\"https://github.com/sandeepdillerao/ionic-search-model\"",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
